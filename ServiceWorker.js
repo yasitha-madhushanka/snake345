@@ -1,9 +1,9 @@
 const cacheName = "cyber art-Slither kozow-1.0";
 const contentToCache = [
     "Build/WEBVIEWLAST.loader.js",
-    "Build/WEBVIEWLAST.framework.js.br",
-    "Build/WEBVIEWLAST.data.br",
-    "Build/WEBVIEWLAST.wasm.br",
+    "Build/WEBVIEWLAST.framework.js.gz",
+    "Build/WEBVIEWLAST.data.gz",
+    "Build/WEBVIEWLAST.wasm.gz",
     "TemplateData/style.css"
 
 ];
